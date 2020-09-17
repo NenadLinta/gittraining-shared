@@ -19,7 +19,7 @@ public class MyMainClass {
 		System.out.println("someone");
 		System.out.println("Karl Heinz");
 		System.out.println("whatever");
-        System.out.println("Ruth Devenish");
+        System.out.println("Ruth Devenish mit Betonung auf Dev");
 	}
 
 }
