@@ -34,7 +34,9 @@ public class Calculator {
 		this.textProvider = textProvider;
 		setupDefaultOperations();
 	}
-
+	/**
+	 * Definition der Feature muss erfolgen
+	 */
 	private void setupDefaultOperations() {
 		new Equals();
 		new Minus();
